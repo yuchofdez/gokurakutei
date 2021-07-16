@@ -547,14 +547,14 @@ body {
 .footer .copy {
   color: white;
   text-align: center;
-  font-size: 16px;
+  font-size: 14px;
   padding-top: 20px;
   padding-bottom: 16px;
 }
 
 @media screen and (max-width: 767px) {
   .footer .copy {
-    font-size: 14px;
+    font-size: 13px;
   }
 }
 /*# sourceMappingURL=style.css.map */
